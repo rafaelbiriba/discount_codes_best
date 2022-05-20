@@ -1,13 +1,7 @@
 # Site navigation links
 
-- title: About Me
-  url: https://rafaelbiriba.com/about-me
-
-- title: Blog Home &#x1F1EC;&#x1F1E7;
-  url: /en/
-
-- title: Blog Home &#127463;&#127479;
-  url: /br/
+- title: Home
+  url: /
 
 - title: Search &#x1F50D;
   url: /search/

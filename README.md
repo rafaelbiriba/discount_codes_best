@@ -1,6 +1,6 @@
-# Rafael Biriba Blog repository
+# Discount Codes Best
 
-Now using Jekyll! Live at: https://rafaelbiriba.com/blog
+Now using Jekyll! Live at: https://discout-codes.best
 
 ## Running
 

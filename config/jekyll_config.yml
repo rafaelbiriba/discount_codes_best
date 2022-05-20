@@ -1,17 +1,14 @@
 # Site wide configuration
 
-title: Rafael Biriba Blog
-logo: rb-logo.png
+title: Discount Codes
+logo:
 search: true
 url: http://127.0.0.1:4000
-baseurl: /blog
-
-en_flag: "&#x1F1EC;&#x1F1E7;"
-br_flag: "&#127463;&#127479;"
+baseurl:
 
 # Jekyll configuration
 
-permalink:  /:categories/:title/
+permalink:  /:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -49,15 +46,15 @@ exclude:
 
 # Site owner
 owner:
-  name: Rafael Biriba
-  avatar: https://www.gravatar.com/avatar/81d01f418d9288c14a94cd21b086156e?s=200
+  name: Discount Codes
+  avatar:
   email: #email
-  disqus-shortname: rafaelbiriba
-  twitter: rafaelbiriba
-  facebook: rafaelbiribarj
-  github: rafaelbiriba
+  disqus-shortname: 
+  twitter: 
+  facebook:
+  github:
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: rafaelbiriba
+  linkedin:
   instagram: #username
   flickr: #username
   tumblr: #username
@@ -65,7 +62,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics: UA-7346716-1
+    analytics: G-ZJ1FYKHV7R
     verify:
     #ad-client: ca-pub-9952848327781387
     #ad-slot: 4958401589
@@ -73,18 +70,10 @@ owner:
 
 t:
   en:
-    description: Technology and Development stuff!
+    description: The best for you
     flag: "&#x1F1EC;&#x1F1E7;"
     name: "English"
     page_locale: en_US
     html_locale: en
     translations:
       language: "language"
-  br:
-    description: Coisas sobre tecnologia e desenvolvimento!
-    flag: "&#127463;&#127479;"
-    name: "Português"
-    page_locale: pt_BR
-    html_locale: pt
-    translations:
-      language: "idioma"

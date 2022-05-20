@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tag Index
-excerpt: "An archive of posts sorted by tag written by Rafael Biriba."
+excerpt: ""
 search_omit: true
 ---
 

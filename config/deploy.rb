@@ -1,4 +1,4 @@
-set :application, "biribablog_jekyll"
+set :application, "discount_codes_best"
 
 set :repository,  "./_site_production"
 
