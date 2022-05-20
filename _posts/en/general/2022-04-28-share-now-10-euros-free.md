@@ -25,7 +25,7 @@ Click (or copy) on the link/code below to secure your €10 off:
 
 ## Or use the code: MGM-R9C4-UFTQ-RLBH-87TY
 
-[![Share Now](/blog/images/2022/share-now-code.jpg)](https://www.share-now.com/DE/en/registration/personal-data/?pc=MGM-R9C4-UFTQ-RLBH-87TY)
+[![Share Now](/images/2022/share-now-code.jpg)](https://www.share-now.com/DE/en/registration/personal-data/?pc=MGM-R9C4-UFTQ-RLBH-87TY)
 
 When you sign up to Share Now simply add the promo code to get 10€ off your first car sharing ride.
 

@@ -26,7 +26,7 @@ Click (or copy) on the link/code below to secure your €6 off:
 
 ## Or use the code: JH7RGGE
 
-[![Wolt](/blog/images/2020/wolt-code.png)](https://get.wolt.com/JH7RGGE)
+[![Wolt](/images/2020/wolt-code.png)](https://get.wolt.com/JH7RGGE)
 
 When you sign up to Wolt simply add a Wolt promo code to get 6€ off your first food delivery.
 

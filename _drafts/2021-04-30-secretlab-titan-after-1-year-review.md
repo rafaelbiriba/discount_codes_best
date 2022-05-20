@@ -18,7 +18,7 @@ share: true
 ads: true
 date: 2021-04-30 16:25 +0200
 ---
-![](/blog/images/2021/secretlab-review/header.jpg)
+![](/images/2021/secretlab-review/header.jpg)
 
 
 In 2020, with everyone being forced to work from home due to the covid pandemic situation, I felt that it could last for many months. So I decided to invest some money in a good chair.
@@ -29,7 +29,7 @@ After some readings and googling, it is very easy to spot Secretlab advertisemen
 
 So I gave it a try: at the time, I paid ~420eur for the Secretlab Titan Dark Knight edition (or simply called Batman chair).
 
-![](/blog/images/2021/secretlab-review/desk.jpg)
+![](/images/2021/secretlab-review/desk.jpg)
 
 A few weeks later, the chair arrived in a big box! Such an amazing experience of building it!
 
@@ -73,15 +73,15 @@ For the cleaning, I am using this [Secretlab cleaning product. (link)](https://s
 
 On the images below, you can see my towel, I am using some clothes pegs to hold the towel in place. You can also see some images of the chair without the towel, and the leather is still 100%. Actually, I could easily sell the chair now as almost new, there are literally no details, scratches, or damages.
 
-![](/blog/images/2021/secretlab-review/front-towel.jpg)
+![](/images/2021/secretlab-review/front-towel.jpg)
 
-![](/blog/images/2021/secretlab-review/back-towel.jpg)
+![](/images/2021/secretlab-review/back-towel.jpg)
 
-![](/blog/images/2021/secretlab-review/chair.jpg)
+![](/images/2021/secretlab-review/chair.jpg)
 
-![](/blog/images/2021/secretlab-review/back-chair.jpg)
+![](/images/2021/secretlab-review/back-chair.jpg)
 
-![](/blog/images/2021/secretlab-review/seat-chair.jpg)
+![](/images/2021/secretlab-review/seat-chair.jpg)
 
 ## Wheels for the hard floor? How is the floor after one year?
 
@@ -91,7 +91,7 @@ The only downside for me is the dirt collected by the wheels (Check the image be
 
 Also after few weeks, you can actually hear the wheel's noise due to the dust spinning with the wheel, that is my reminder to go there and clean the wheel.
 
-![](/blog/images/2021/secretlab-review/wheel.jpg)
+![](/images/2021/secretlab-review/wheel.jpg)
 
 
 

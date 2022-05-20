@@ -25,7 +25,7 @@ Copy the code below to secure your 30 minutes for free:
 
 ## And use the code: 4eoJVHj2
 
-![Felyx](/blog/images/2022/felyx-code.png)
+![Felyx](/images/2022/felyx-code.png)
 
 When you sign up to Felyx simply add the promo code to get 30 minutes for free your first scooter ride.
 

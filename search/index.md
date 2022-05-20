@@ -8,8 +8,7 @@ image:
   feature:
 search_omit: true
 sitemap: false
-image:
-  feature: discount-codes/logo.png
+discount_codes: true
 ---
 
 <!-- Search form -->

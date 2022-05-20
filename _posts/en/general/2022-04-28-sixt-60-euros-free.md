@@ -22,7 +22,7 @@ Click (or copy) on the link/code below to secure your €60 off:
 
 ## [https://www.sixt.de/invite/EPtlRrmgRn9=](https://www.sixt.de/invite/EPtlRrmgRn9=)
 
-[![Sixt](/blog/images/2022/sixt-code.jpeg)](https://www.sixt.de/invite/EPtlRrmgRn9=)
+[![Sixt](/images/2022/sixt-code.jpeg)](https://www.sixt.de/invite/EPtlRrmgRn9=)
 
 Simply sign up to Sixt using the link above to participate on the promotion.
 

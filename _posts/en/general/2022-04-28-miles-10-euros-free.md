@@ -23,7 +23,7 @@ Copy the code below to secure your €10 off:
 
 ## Use the code: nMxg91feMa
 
-![Miles](/blog/images/2022/miles-code.jpeg)
+![Miles](/images/2022/miles-code.jpeg)
 
 When you sign up to Miles simply add the promo code to get 10€ off your first car sharing ride.
 
