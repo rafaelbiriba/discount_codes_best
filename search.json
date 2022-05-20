@@ -6,7 +6,7 @@ sitemap: false
 {% for post in site.posts %}
   {% if post.title != null and post.title != empty and post.search_omit != true %}
     {%- capture title -%}
-      {{ site.t[post.lang].flag }}{{ post.title }}
+      {{ post.title }}
     {%- endcapture -%}
     {% if forloop.index > 1 %},{% endif %}{
       "title"			: {{ title | jsonify }},
