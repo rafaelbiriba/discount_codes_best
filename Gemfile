@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", "4.3.2"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
@@ -8,4 +8,3 @@ gem "jekyll-feed"
 gem "jemoji"
 gem "jekyll-compose"
 gem "rake"
-gem "github-pages"
