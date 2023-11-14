@@ -10,5 +10,5 @@ end
 
 desc "Compile production jekyll"
 task :compile_production do
-  %x(rm -rf _site_production/* && bundle exec jekyll build -c config/jekyll_config.yml,config/jekyll_config_production.yml)
+  %x(rm -rf _site/* && bundle exec jekyll build -c config/jekyll_config.yml,config/jekyll_config_production.yml)
 end
